@@ -8,9 +8,9 @@ status: new
 
 ???+ tip "The Coder Cafe"
 
-    If you enjoyed my book, you may be interested in my latest project: [The Coder Cafe](https://thecoder.cafe?rd=100go.co), a newsletter for coders.
+    Enjoyed my book? You will enjoy my newsletter too.
 
-    > Feeling overwhelmed by the endless stream of tech content? At The Coder Cafe, we serve timeless concepts with your coffee. Written by a Google SWE and published author, we help you grow as an engineer, one coffee at a time.
+    > AI is getting better every day. Are you? At The Coder Cafe, we serve fundamental concepts to make you an engineer that AI won't replace. Written by a Google SWE, trusted by thousands of engineers worldwide.
 
     <center><a href="https://thecoder.cafe?rd=100go.co"><img src="../img/thecodercafe.png" alt="" style="width:480px;height:240px;"></a></center>
 
@@ -2431,6 +2431,14 @@ Read the full section [here](98-profiling-execution-tracing.md).
 ???+ warning
 
 	This mistake isn't relevant anymore from Go 1.25 ([details](https://go.dev/blog/container-aware-gomaxprocs)).
+
+???+ tip "The Coder Cafe"
+
+    Enjoyed my book? You will enjoy my newsletter too.
+
+    > AI is getting better every day. Are you? At The Coder Cafe, we serve fundamental concepts to make you an engineer that AI won't replace. Written by a Google SWE, trusted by thousands of engineers worldwide.
+
+    <center><a href="https://thecoder.cafe?rd=100go.co"><img src="../img/thecodercafe.png" alt="" style="width:480px;height:240px;"></a></center>
 
 ## Community
 
